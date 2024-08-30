@@ -21,7 +21,6 @@ public class ProductServiceTest {
 
     @Mock
     private ProductService productService;
-
     private ProductRepository productRepository;
     private Product product;
     private ProductRequestDTO productRequestDTO;
